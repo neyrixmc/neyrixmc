@@ -57,7 +57,7 @@
 ## 📫 Me contacter
 
 <p>
-  💬 Discord : <strong>ton_pseudo#0000</strong><br>
+  💬 Discord : <strong>neyrix_mc</strong><br>
   🌐 GitHub : <strong>https://github.com/neyrixmc</strong>
 </p>
 
@@ -65,7 +65,7 @@
 
 ## ⚡ Fun fact
 
-> Je peux apprendre un langage plus vite que tu peux dire **"Hello World"** 😄
+> Je peux t'aider dans t'es projets  😄
 
 ---
 
